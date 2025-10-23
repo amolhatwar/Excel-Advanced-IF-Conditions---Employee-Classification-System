@@ -163,25 +163,6 @@ This formula system can be applied to:
 - Automated reporting systems
 
 ---
-
-## How to Use
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/excel-if-conditions
-```
-
-2. **Open the Excel file**: Employee_Classification_System.xlsx
-
-3. **Review the formulas** in columns F, G, and H
-
-4. **Modify thresholds** based on your business requirements:
-   - Change performance score thresholds
-   - Adjust tenure requirements
-   - Add additional classification criteria
-
----
-
 ## Sample Formula Breakdown
 
 ### Performance Status Formula
